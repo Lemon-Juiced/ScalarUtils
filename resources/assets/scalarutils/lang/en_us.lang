@@ -1,0 +1,257 @@
+//Items
+
+ //Food
+  //Scalar Arsenal
+item.lemon_heads.name=Lemon Head
+  //Scalar Chicken Nuggets
+item.raw_chicken_nugget.name=Raw Chicken Nugget
+item.cooked_chicken_nugget.name=Cooked Chicken Nugget
+  //Scalar Grilled Cheese
+item.cheese.name=Slice Of Cheese
+item.grilled_cheese.name=Grilled Cheese
+  //Scalar Simple Toast
+item.flour.name=Flour
+item.toast.name=Toast
+item.sesameseeds.name=Sesame Seeds
+item.sesameseedtoast.name=Sesame Seed Toast
+
+ //Scalar Anti-Blocks (Items)
+item.anti_mesh.name=Anti-Mesh
+
+ //Scalar Arsenal
+  //Armor
+item.shellmet_boots.name=Feather Falling Boots - Currently Broken
+  //Items
+item.arsenic.name=Arsenic
+item.citrine_ingot.name=Citrine Ingot
+item.energized_citrine_ingot.name=Energized Citrine Ingot
+item.conglomerate.name=Conglomerate
+item.hilt.name=Hilt
+item.bejeweled_hilt.name=Bejeweled Hilt
+  //Weapons
+item.citrus_claymore.name=Citrus Chieftain's Katana
+item.frost_falchion.name=Frost Fuhrer's Falchion
+item.turtle_trident.name=Turtle Tyrant's Trident
+item.little_brown_blade.name=Little Brown's Little Blade
+
+ //Scalar Crops
+item.flax.name=Flax
+item.flax_seeds.name=Flax Seeds
+
+ //Scalar Custom Alloys
+  //Dusts
+item.red_alloy_dust.name=Red Alloy Dust
+item.orange_alloy_dust.name=Orange Alloy Dust
+item.yellow_alloy_dust.name=Yellow Alloy Dust
+item.green_alloy_dust.name=Green Alloy Dust
+item.blue_alloy_dust.name=Blue Alloy Dust
+item.purple_alloy_dust.name=Purple Alloy Dust
+item.brown_alloy_dust.name=Brown Alloy Dust
+item.white_alloy_dust.name=White Alloy Dust
+item.gray_alloy_dust.name=Gray Alloy Dust
+item.black_alloy_dust.name=Black Alloy Dust
+  //Ingots
+item.red_alloy_ingot.name=Red Alloy Ingot
+item.orange_alloy_ingot.name=Orange Alloy Ingot
+item.yellow_alloy_ingot.name=Yellow Alloy Ingot
+item.green_alloy_ingot.name=Green Alloy Ingot
+item.blue_alloy_ingot.name=Blue Alloy Ingot
+item.purple_alloy_ingot.name=Purple Alloy Ingot
+item.brown_alloy_ingot.name=Brown Alloy Ingot
+item.white_alloy_ingot.name=White Alloy Ingot
+item.gray_alloy_ingot.name=Gray Alloy Ingot
+item.black_alloy_ingot.name=Black Alloy Ingot
+  //Nuggets
+item.red_alloy_nugget.name=Red Alloy Nugget
+item.orange_alloy_nugget.name=Orange Alloy Nugget
+item.yellow_alloy_nugget.name=Yellow Alloy Nugget
+item.green_alloy_nugget.name=Green Alloy Nugget
+item.blue_alloy_nugget.name=Blue Alloy Nugget
+item.purple_alloy_nugget.name=Purple Alloy Nugget
+item.brown_alloy_nugget.name=Brown Alloy Nugget
+item.white_alloy_nugget.name=White Alloy Nugget
+item.gray_alloy_nugget.name=Gray Alloy Nugget
+item.black_alloy_nugget.name=Black Alloy Nugget
+ //Plates
+item.red_alloy_plate.name=Red Alloy Plate
+item.orange_alloy_plate.name=Orange Alloy Plate
+item.yellow_alloy_plate.name=Yellow Alloy Plate
+item.green_alloy_plate.name=Green Alloy Plate
+item.blue_alloy_plate.name=Blue Alloy Plate
+item.purple_alloy_plate.name=Purple Alloy Plate
+item.brown_alloy_plate.name=Brown Alloy Plate
+item.white_alloy_plate.name=White Alloy Plate
+item.gray_alloy_plate.name=Gray Alloy Plate
+item.black_alloy_plate.name=Black Alloy Plate
+
+ //Scalar End-Game Arsenal
+  //Items
+item.enderstar.name=Ender Star
+item.dragonstar.name=Dragon Star
+  //Armor
+   //Ender
+item.ender_helmet.name=Ender Helmet
+item.ender_chestplate.name=Ender Chestplate
+item.ender_leggings.name=Ender Leggings
+item.ender_boots.name=Ender Boots
+   //Shellmet
+item.shellmet_helmet.name=Shellmet (Shulker Shell Helmet)
+
+ //Scalar Grilled Cheese
+item.shakinator.name=The Shakinator (Twist) - A Relic Of The Past
+
+ //Scalar Oddities
+item.artificial_slimeball.name=Artificial Slimeball
+
+ //Scalar Simple Utility Creator (Items)
+  //Items
+item.placeholder.name=Placeholder Item
+  //Tools
+item.placeholder_sword.name=Placeholder Sword
+item.placeholder_pickaxe.name=Placeholder Pickaxe
+item.placeholder_axe.name=Placeholder Axe
+item.placeholder_spade.name=Placeholder Shovel
+item.placeholder_hoe.name=Placeholder Hoe
+ //Armor
+item.placeholder_helmet.name=Placeholder Helmet
+item.placeholder_chestplate.name=Placeholder Chestplate
+item.placeholder_leggings.name=Placeholder Leggings
+item.placeholder_boots.name=Placeholder Boots
+
+ //Scalar Simple WorldGen
+  //Derivative
+item.quartz_shard.name=Quartz Shard
+
+ //Scalar Tiny Coal
+item.tiny_coal.name=Tiny Coal
+item.tiny_charcoal.name=Tiny Charcoal
+
+//Blocks
+
+ //Scalar Anti-Blocks
+tile.white_anti_block.name=White Anti-Block
+tile.black_anti_block.name=Black Anti-Block
+tile.gray_anti_block.name=Gray Anti-Block
+tile.light_gray_anti_block.name=Light Gray Anti-Block
+tile.red_anti_block.name=Red Anti-Block
+tile.orange_anti_block.name=Orange Anti-Block
+tile.pink_anti_block.name=Pink Anti-Block
+tile.yellow_anti_block.name=Yellow Anti-Block
+tile.lime_anti_block.name=Lime Anti-Block
+tile.green_anti_block.name=Green Anti-Block
+tile.light_blue_anti_block.name=Light Blue Anti-Block
+tile.cyan_anti_block.name=Cyan Anti-Block
+tile.blue_anti_block.name=Blue Anti-Block
+tile.magenta_anti_block.name=Magenta Anti-Block
+tile.purple_anti_block.name=Purple Anti-Block
+tile.brown_anti_block.name=Brown Anti-Block
+
+//Scalar Arsenal
+tile.fruitilized_stone_block.name=Fruitilized Stone 
+
+//Scalar Camo-Lighting
+ //Stones
+  //Stone
+tile.camo_stone_block.name=Camo Stone Light
+tile.camo_stone_brick_block.name=Camo Stone Brick Light
+tile.camo_chiseled_stone_brick_block.name=Camo Chiseled Stone Brick Light
+tile.camo_cracked_stone_brick_block.name=Camo Cracked Stone Brick Light
+tile.camo_mossy_stone_brick_block.name=Camo Mossy Stone Brick Light
+ //Wood
+  //Bark
+tile.camo_oak_bark_block.name=Camo Light Oak Bark
+tile.camo_spruce_bark_block.name=Camo Light Spruce Bark
+tile.camo_birch_bark_block.name=Camo Light Birch Bark
+tile.camo_jungle_bark_block.name=Camo Light Jungle Bark
+tile.camo_acacia_bark_block.name=Camo Light Acacia Bark
+tile.camo_darkoak_bark_block.name=Camo Light Dark Oak Bark
+  //Logs
+tile.camo_oak_log_block.name=Camo Light Oak Log
+tile.camo_spruce_log_block.name=Camo Light Spruce Log
+tile.camo_birch_log_block.name=Camo Light Birch Log
+tile.camo_jungle_log_block.name=Camo Light Jungle Log
+tile.camo_acacia_log_block.name=Camo Light Acacia Log
+tile.camo_darkoak_log_block.name=Camo Light Dark Oak Log
+  //Planks
+tile.camo_oak_plank_block.name=Camo Light Oak Plank
+tile.camo_spruce_plank_block.name=Camo Light Spruce Plank
+tile.camo_birch_plank_block.name=Camo Light Birch Plank
+tile.camo_jungle_plank_block.name=Camo Light Jungle Plank
+tile.camo_acacia_plank_block.name=Camo Light Acacia Plank
+tile.camo_darkoak_plank_block.name=Camo Light Dark Oak Plank
+
+ //Scalar Crops
+tile.flax_plant.name=Flax Plant
+
+ //Scalar Crystalliztion
+tile.crystallizer_block.name=Crystallizer
+container.crystallizer=Crystallizer
+
+ //Scalar Custom Alloys 
+tile.red_alloy_block.name=Red Alloy Block
+tile.orange_alloy_block.name=Orange Alloy Block
+tile.yellow_alloy_block.name=Yellow Alloy Block
+tile.green_alloy_block.name=Green Alloy Block
+tile.blue_alloy_block.name=Blue Alloy Block
+tile.purple_alloy_block.name=Purple Alloy Block
+tile.brown_alloy_block.name=Brown Alloy Block
+tile.white_alloy_block.name=White Alloy Block
+tile.gray_alloy_block.name=Gray Alloy Block
+tile.black_alloy_block.name=Black Alloy Block
+
+//Scalar Lumber
+ //Paperwall
+tile.paperwall_block.name=Paperwall
+ //Timber Frames
+  //Horizontal
+tile.oak_horizontal_timber_frame_block.name=Oak Horizontal Timber Frame
+tile.spruce_horizontal_timber_frame_block.name=Spruce Horizontal Timber Frame
+tile.birch_horizontal_timber_frame_block.name=Birch Horizontal Timber Frame
+tile.jungle_horizontal_timber_frame_block.name=Jungle Horizontal Timber Frame
+tile.acacia_horizontal_timber_frame_block.name=Acacia Horizontal Timber Frame
+tile.darkoak_horizontal_timber_frame_block.name=Dark Oak Horizontal Timber Frame
+  //Vertical
+tile.oak_vertical_timber_frame_block.name=Oak Vertical Timber Frame
+tile.spruce_vertical_timber_frame_block.name=Spruce Vertical Timber Frame
+tile.birch_vertical_timber_frame_block.name=Birch Vertical Timber Frame
+tile.jungle_vertical_timber_frame_block.name=Jungle Vertical Timber Frame
+tile.acacia_vertical_timber_frame_block.name=Acacia Vertical Timber Frame
+tile.darkoak_vertical_timber_frame_block.name=Dark Oak Vertical Timber Frame
+ //Wall
+tile.wall_block.name=Wall
+
+//Scalar Masonry
+ //Reinforced Stones
+  //Cobble
+tile.reinforced_cobblestone_block.name=Reinforced Cobblestone 
+   //Encased
+tile.encased_reinforced_cobblestone_block.name=Encased Reinforced Cobblestone 
+  //Stone
+tile.reinforced_stone_block.name=Reinforced Stone 
+ //Tiles
+tile.andesite_diorite_tiles_block.name=Andesite-Diorite Tiles
+tile.andesite_granite_tiles_block.name=Andesite-Granite Tiles
+tile.diorite_granite_tiles_block.name=Diorite-Granite Tiles
+
+ //Scalar Shenanigans
+tile.lemon_head_block.name=Lemon Head
+tile.scalar_block.name=Scalar Block
+
+ //Scalar Simple Utility Creator (Blocks)
+tile.placeholder_block.name=Placeholder Block
+  //Scalar Civilization
+tile.basic_machine_case_block.name=Basic Machine Casing Block
+tile.advanced_machine_case_block.name=Advanced Machine Casing Block
+
+ //Scalar Simple WorldGen
+  //Derivative
+tile.smooth_marble_block.name=Smooth Marble Block
+tile.smooth_marble_brick_block.name=Smooth Marble Brick Block
+tile.basalt_brick_block.name=Basalt Brick
+  //World
+tile.marble_block.name=Marble
+tile.basalt_block.name=Basalt
+tile.quartz_ore_block.name=Quartz Ore
+
+//Creative Tab
+itemGroup.scalartab=Scalar Utils
