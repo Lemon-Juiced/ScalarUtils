@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "scalarutils:diorite_granite_tiles_block" }
+    }
+}

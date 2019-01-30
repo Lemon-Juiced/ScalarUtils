@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "scalarutils:basic_machine_case_block" }
+    }
+}

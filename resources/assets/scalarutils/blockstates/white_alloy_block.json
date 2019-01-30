@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "scalarutils:white_alloy_block" }
+    }
+}

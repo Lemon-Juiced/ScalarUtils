@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "scalarutils:gray_anti_block" }
+    }
+}

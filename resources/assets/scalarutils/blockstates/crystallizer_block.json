@@ -1,0 +1,13 @@
+{
+    "variants": 
+    {
+        "crystallizing=false,facing=north": { "model": "scalarutils:crystallizer_block" },
+        "crystallizing=false,facing=east": { "model": "scalarutils:crystallizer_block", "y": 90 },
+        "crystallizing=false,facing=south": { "model": "scalarutils:crystallizer_block", "y": 180 },
+        "crystallizing=false,facing=west": { "model": "scalarutils:crystallizer_block", "y": 270 },
+        "crystallizing=true,facing=north": { "model": "scalarutils:lit_crystallizer_block" },
+        "crystallizing=true,facing=east": { "model": "scalarutils:lit_crystallizer_block", "y": 90 },
+        "crystallizing=true,facing=south": { "model": "scalarutils:lit_crystallizer_block", "y": 180 },
+        "crystallizing=true,facing=west": { "model": "scalarutils:lit_crystallizer_block", "y":270  }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "scalarutils:spruce_horizontal_timber_frame_block" }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "scalarutils:andesite_granite_tiles_block" }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "scalarutils:andesite_diorite_tiles_block" }
+    }
+}
