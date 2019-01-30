@@ -1,0 +1,16 @@
+[
+{
+  "modid": "scalarutils",
+  "name": "Scalar Utils 1.12.2",
+  "description": "Just A Bunch Of Utilties And Nonsense, From Scalar For Scalar & The Peoples",
+  "version": "1.6.1.0alpha",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lemon Juice"],
+  "credits": "Lemon The ScalarDev! & Adam(TechDahTurtle, Turtle_Gaming, TechX)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
