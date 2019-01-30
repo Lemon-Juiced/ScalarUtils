@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "scalarutils:blocks/camo_jungle_bark_block"
+   }
+}

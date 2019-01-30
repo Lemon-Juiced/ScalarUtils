@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "scalarutils:blocks/crystallizer_block_side",
+        "up": "scalarutils:blocks/crystallizer_block_side",
+        "down": "scalarutils:blocks/crystallizer_block_side",
+        "north": "scalarutils:blocks/crystallizer_block_front_off",
+        "east": "scalarutils:blocks/crystallizer_block_side",
+        "south": "scalarutils:blocks/crystallizer_block_side",
+        "west": "scalarutils:blocks/crystallizer_block_side"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "tutorial:blocks/camo_jungle_log_block",
+        "up": "scalarutils:blocks/camo_jungle_log_top_block",
+        "down": "scalarutils:blocks/camo_jungle_log_top_block",
+        "north": "scalarutils:blocks/camo_jungle_log_block",
+        "east": "scalarutils:blocks/camo_jungle_log_block",
+        "south": "scalarutils:blocks/camo_jungle_log_block",
+        "west": "scalarutils:blocks/camo_jungle_log_block"
+    }
+}

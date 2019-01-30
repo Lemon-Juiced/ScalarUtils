@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "tutorial:blocks/lemon_head_face_block",
+        "up": "scalarutils:blocks/lemon_head_up_block",
+        "down": "scalarutils:blocks/lemon_head_down_block",
+        "north": "scalarutils:blocks/lemon_head_face_block",
+        "east": "scalarutils:blocks/lemon_head_side1_block",
+        "south": "scalarutils:blocks/lemon_head_back_block",
+        "west": "scalarutils:blocks/lemon_head_side2_block"
+    }
+}

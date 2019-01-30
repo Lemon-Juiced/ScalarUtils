@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "scalarutils:blocks/andesite_granite_tiles_block"
+   }
+}

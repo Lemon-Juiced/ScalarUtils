@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "tutorial:blocks/acacia_horizontal_timber_frame_block",
+        "up": "scalarutils:blocks/wall_block",
+        "down": "scalarutils:blocks/wall_block",
+        "north": "scalarutils:blocks/acacia_horizontal_timber_frame_block",
+        "east": "scalarutils:blocks/acacia_horizontal_timber_frame_block",
+        "south": "scalarutils:blocks/acacia_horizontal_timber_frame_block",
+        "west": "scalarutils:blocks/acacia_horizontal_timber_frame_block"
+    }
+}

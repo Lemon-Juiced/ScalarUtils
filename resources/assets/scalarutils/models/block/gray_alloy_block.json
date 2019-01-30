@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "scalarutils:blocks/gray_alloy_block"
+   }
+}
