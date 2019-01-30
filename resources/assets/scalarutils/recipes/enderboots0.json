@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "D D",
+        "O O",
+        "   "
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamoond"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+            }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:ender_boots",
+        "count": 1
+    }
+}

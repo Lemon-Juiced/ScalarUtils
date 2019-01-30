@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "GCG",
+        "GGG"
+    ],
+    "key": {
+        "C": {
+            "item": "scalarutils:citrine_ingot"
+        },
+        "G": {
+            "item": "minecraft:glowstone_dust"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:energized_citrine_ingot",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "DED",
+        "O O"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamoond"
+        },
+        "E": {
+            "item": "scalarutils:enderstar"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+            }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:ender_helmet",
+        "count": 1
+    }
+}

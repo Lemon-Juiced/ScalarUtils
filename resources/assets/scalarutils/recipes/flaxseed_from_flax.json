@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "scalarutils:flax"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "scalarutils:flax_seeds",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        "DED",
+        "DDD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:dragon_breath"
+        },
+        "E": {
+            "item": "scalarutils:enderstar"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:dragonstar",
+        "count": 1
+    }
+}

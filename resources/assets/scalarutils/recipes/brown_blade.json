@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        " C ",
+        " H "
+    ],
+    "key": {
+        "H": {
+            "item": "scalarutils:bejeweled_hilt"
+        },
+        "C": {
+            "item": "scalarutils:conglomerate"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:little_brown_blade",
+        "count": 1
+    }
+}

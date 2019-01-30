@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+ 
+    {
+      "item": "scalarutils:arsenic"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "scalarutils:fruitilized_stone_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NNN",
+        "NNN",
+        "NNN"
+    ],
+    "key": {
+        "N": {
+            "item": "scalarutils:cooked_chicken_nugget"
+        }
+    },
+    "result": {
+        "item": "minecraft:cooked_chicken",
+        "count": 1
+    }
+}

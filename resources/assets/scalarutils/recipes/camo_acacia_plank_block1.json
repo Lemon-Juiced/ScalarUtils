@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SIS",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:planks",
+            "data": 4
+        },
+        "I": {
+            "item": "minecraft:glowstone"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:camo_acacia_plank_block",
+        "count": 4
+    }
+}

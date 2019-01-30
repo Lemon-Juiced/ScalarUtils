@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SWS",
+        "SWS",
+        "SWS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:wooden_slab",
+            "data": 4
+        },
+        "W": {
+            "item": "scalarutils:wall_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:acacia_vertical_timber_frame_block",
+        "count": 8
+    }
+}

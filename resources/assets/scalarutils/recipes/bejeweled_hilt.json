@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " D ",
+        " H ",
+        "   "
+    ],
+    "key": {
+        "H": {
+            "item": "scalarutils:hilt"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:bejeweled_hilt",
+        "count": 1
+    }
+}

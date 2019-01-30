@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SIS",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:log",
+            "data": 5
+        },
+        "I": {
+            "item": "minecraft:glowstone"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:camo_darkoak_log_block",
+        "count": 4
+    }
+}

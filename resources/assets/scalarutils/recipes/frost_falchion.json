@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " DL",
+        "DI ",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "I": {
+            "item": "minecraft:ice"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "L": {
+            "item": "minecraft:dye",
+            "data": 4
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:frost_falchion",
+        "count": 1
+    }
+}

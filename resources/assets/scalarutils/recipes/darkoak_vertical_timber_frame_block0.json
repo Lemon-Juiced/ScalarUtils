@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "scalarutils:darkoak_horizontal_timber_frame_block"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "scalarutils:darkoak_vertical_timber_frame_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NN ",
+        "NN ",
+        "   "
+    ],
+    "key": {
+        "N": {
+            "item": "scalarutils:basalt_block"
+        }
+    },
+    "result": {
+        "item": "scalarutils:basalt_brick_block",
+        "count": 4
+    }
+}

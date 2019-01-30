@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:cooked_chicken"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "scalarutils:cooked_chicken_nugget",
+        "count": 9
+    }
+}

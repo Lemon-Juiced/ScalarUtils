@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "NNN",
+        "   "
+    ],
+    "key": {
+        "N": {
+            "item": "scalarutils:gray_alloy_ingot"
+        }
+    },
+    "result": {
+        "item": "scalarutils:gray_alloy_plate",
+        "count": 3
+    }
+}

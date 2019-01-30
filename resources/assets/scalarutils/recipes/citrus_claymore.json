@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        " C ",
+        " H "
+    ],
+    "key": {
+        "H": {
+            "item": "scalarutils:bejeweled_hilt"
+        },
+        "C": {
+            "item": "scalarutils:energized_citrine_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:citrus_claymore",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ISI",
+        "S S",
+        "ISI"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:log",
+            "data": 3
+        },
+        "I": {
+            "item": "minecraft:glowstone_dust"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:camo_jungle_bark_block",
+        "count": 4
+    }
+}

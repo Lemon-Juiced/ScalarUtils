@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SCS",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "scalarutils:reinforced_stone_block"
+        },
+        "C": {
+            "item": "scalarutils:reinforced_cobblestone_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:encased_reinforced_cobblestone_block",
+        "count": 5
+    }
+}

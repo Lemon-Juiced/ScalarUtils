@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "GAG",
+        " G "
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:apple"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:arsenic",
+        "count": 1
+    }
+}

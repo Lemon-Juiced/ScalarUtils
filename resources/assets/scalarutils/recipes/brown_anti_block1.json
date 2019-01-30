@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "ACA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "item": "scalarutils:white_anti_block"
+        },
+        "C": {
+            "item": "minecraft:dye",
+            "data": 3
+        }
+    },
+    "result": {
+        "item": "scalarutils:brown_anti_block",
+        "count": 8
+    }
+}

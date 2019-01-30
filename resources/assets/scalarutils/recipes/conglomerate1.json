@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "CIC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:cookie"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:conglomerate",
+        "count": 1
+    }
+}

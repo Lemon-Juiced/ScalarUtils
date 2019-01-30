@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "scalarutils:blue_alloy_ingot"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "scalarutils:blue_alloy_nugget",
+        "count": 9
+    }
+}
