@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "scalarutils:white_alloy_block"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "scalarutils:white_alloy_ingot",
+        "count": 9
+    }
+}

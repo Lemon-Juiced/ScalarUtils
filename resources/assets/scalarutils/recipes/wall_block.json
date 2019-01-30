@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SIS",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:paper"
+        },
+        "I": {
+            "item": "minecraft:planks",
+            "data": 0
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:wall_block",
+        "count": 4
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NNN",
+        "NNN",
+        "NNN"
+    ],
+    "key": {
+        "N": {
+            "item": "scalarutils:purple_alloy_nugget"
+        }
+    },
+    "result": {
+        "item": "scalarutils:purple_alloy_ingot",
+        "count": 1
+    }
+}

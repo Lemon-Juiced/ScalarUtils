@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "WWW",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:wooden_slab",
+            "data": 1
+        },
+        "W": {
+            "item": "scalarutils:wall_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:spruce_horizontal_timber_frame_block",
+        "count": 8
+    }
+}

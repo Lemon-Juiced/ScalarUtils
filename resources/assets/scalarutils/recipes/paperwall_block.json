@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SWS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "W": {
+            "item": "scalarutils:wall_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:paperwall_block",
+        "count": 4
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "F F",
+        "F F"
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:feather"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:shellmet_boots",
+        "count": 1
+    }
+}

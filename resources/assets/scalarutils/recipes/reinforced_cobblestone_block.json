@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SWS",
+        " S "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:log",
+            "data": 0
+        },
+        "S": {
+            "item": "minecraft:cobblestone"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:reinforced_cobblestone_block",
+        "count": 16
+    }
+}

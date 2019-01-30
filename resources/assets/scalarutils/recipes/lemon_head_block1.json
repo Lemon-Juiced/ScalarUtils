@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SIS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "I": {
+            "item": "minecraft:pumpkin"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:lemon_head_block",
+        "count": 1
+    }
+}

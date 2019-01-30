@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "A A",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "item": "scalarutils:anti_mesh"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:white_anti_block",
+        "count": 16
+    }
+}

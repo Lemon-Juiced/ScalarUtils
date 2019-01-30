@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "SWS",
+        " S "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:log",
+            "data": 0
+        },
+        "S": {
+            "item": "minecraft:stone"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:reinforced_stone_block",
+        "count": 16
+    }
+}

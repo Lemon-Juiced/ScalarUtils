@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "scalarutils:sesameseeds"
+    },
+ 
+    {
+      "item": "scalarutils:toast"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "scalarutils:sesameseedtoast",
+        "count": 1
+    }
+}

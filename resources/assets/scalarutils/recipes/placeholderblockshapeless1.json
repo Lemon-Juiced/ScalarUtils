@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "scalarutils:placeholder"
+    },
+ 
+    {
+      "item": "scalarutils:placeholder"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "scalarutils:placeholder_block",
+        "count": 2
+    }
+}

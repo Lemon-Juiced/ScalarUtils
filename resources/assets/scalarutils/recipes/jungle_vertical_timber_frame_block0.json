@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "scalarutils:jungle_horizontal_timber_frame_block"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "scalarutils:jungle_vertical_timber_frame_block",
+        "count": 1
+    }
+}

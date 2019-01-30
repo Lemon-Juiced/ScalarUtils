@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MM ",
+        "MM ",
+        "   "
+    ],
+    "key": {
+        "M": {
+            "item": "scalarutils:smooth_marble_block"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:smooth_marble_brick_block",
+        "count": 4
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PSP",
+        "P P",
+        "   "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:shulker_shell"
+        },
+        "P": {
+            "item": "minecraft:chorus_fruit_popped"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:shellmet_helmet",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PP ",
+        "PS ",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "P": {
+            "item": "scalarutils:placeholder"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:placeholder_axe",
+        "count": 1
+    }
+}

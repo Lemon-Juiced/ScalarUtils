@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "LLL",
+        "LLL"
+    ],
+    "key": {
+        "L": {
+            "item": "scalarutils:lemon_heads"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:lemon_head_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "scalarutils:quartz_shard"
+    },
+    
+    {
+      "item": "scalarutils:quartz_shard"
+    },
+    
+    {
+      "item": "scalarutils:quartz_shard"
+    },
+ 
+    {
+      "item": "scalarutils:quartz_shard"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "minecraft:quartz",
+        "count": 1
+    }
+}

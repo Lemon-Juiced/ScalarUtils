@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "PPP",
+        "P P"
+    ],
+    "key": {
+        "P": {
+            "item": "scalarutils:placeholder"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:placeholder_helmet",
+        "count": 1
+    }
+}

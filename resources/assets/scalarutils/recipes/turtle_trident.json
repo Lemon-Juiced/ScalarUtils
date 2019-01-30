@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " E ",
+        "ESE",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scalarutils:turtle_trident",
+        "count": 1
+    }
+}
